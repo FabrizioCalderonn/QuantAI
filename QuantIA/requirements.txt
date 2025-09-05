@@ -1,0 +1,91 @@
+# Core Data Science Libraries
+numpy==1.24.3
+pandas==2.0.3
+scipy==1.11.1
+scikit-learn==1.3.0
+
+# Machine Learning
+xgboost==1.7.6
+lightgbm==4.0.0
+catboost==1.2.2
+
+# Time Series Analysis
+statsmodels==0.14.0
+arch==6.2.0
+ta-lib==0.4.28
+
+# Financial Data
+yfinance==0.2.18
+alpha-vantage==2.3.1
+pandas-datareader==0.10.0
+ccxt==4.0.77
+
+# Visualization
+matplotlib==3.7.2
+seaborn==0.12.2
+plotly==5.15.0
+bokeh==3.2.2
+
+# Web Framework & API
+fastapi==0.101.1
+uvicorn==0.23.2
+requests==2.31.0
+aiohttp==3.8.5
+
+# Database
+sqlalchemy==2.0.19
+pymongo==4.4.1
+redis==4.6.0
+
+# Configuration & Environment
+pyyaml==6.0.1
+python-dotenv==1.0.0
+pydantic==2.1.1
+
+# Monitoring & Logging
+prometheus-client==0.17.1
+structlog==23.1.0
+loguru==0.7.0
+
+# Testing
+pytest==7.4.0
+pytest-cov==4.1.0
+pytest-asyncio==0.21.1
+
+# Development Tools
+jupyter==1.0.0
+jupyterlab==4.0.7
+black==23.7.0
+flake8==6.0.0
+mypy==1.5.1
+
+# Performance
+numba==0.57.1
+cython==3.0.2
+
+# Risk Management
+pyfolio==0.9.2
+empyrical==0.5.5
+quantlib==1.32
+
+# Explainability
+shap==0.42.1
+lime==0.2.0.1
+
+# Parallel Processing
+joblib==1.3.2
+dask==2023.7.1
+
+# Utilities
+tqdm==4.65.0
+click==8.1.7
+rich==13.4.2
+
+# Optional: GPU Support (uncomment if needed)
+# cupy-cuda11x==12.2.0
+# cuml==23.08.00
+
+# Optional: Advanced ML (uncomment if needed)
+# torch==2.0.1
+# transformers==4.32.1
+
